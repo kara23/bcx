@@ -1,0 +1,80 @@
+#response{
+    margin-bottom: 20px;
+    display: none;
+}
+
+.text-red{
+    color: red !important;
+}
+
+.text-green{
+    color: green !important;
+}
+
+.nav-border{
+    border-bottom: thin solid #ccc;
+    /* padding: 15px; */
+    padding: 0px;
+    margin-bottom: 15px
+}
+
+.tabs-disabled{
+    width: 100%;
+    padding: 15px !important;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.tabs{
+    width: 100%;
+    padding: 15px !important;
+    color: #069;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.tabs:hover{
+    background: #069;
+    color: #fff;
+    cursor: pointer;
+}
+
+.text-right{
+    text-align: right !important;
+}
+
+.text-dark-orange{
+    color: darkorange !important;
+}
+
+.text-left{
+    text-align: left !important;
+}
+
+.text-blue{
+    color: #39c;
+}
+
+.text-blue:hover{
+    color: #069
+}
+
+.anchor{
+    cursor:pointer !important;
+}
+
+#priv{
+    display:none
+}
+
+input, select, textarea {
+    font-size: 13px !important;
+}
+
+table th, table td{
+    font-size: 14px
+}
+.text-grey{
+    color: #dcdcdc !important
+}
+
