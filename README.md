@@ -1,5 +1,5 @@
 base manual
-# type azaniasystems.co.za on your browser to access the site
+# type https://azaniasystems.co.za/bcx on your browser to access the site
 
 # on the logging page use the following details to log in
     - Username: Admin
